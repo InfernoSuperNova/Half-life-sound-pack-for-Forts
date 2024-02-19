@@ -1,0 +1,1 @@
+SoundEvent = "mods/half-life-sound-pack/effects/repair_fire"

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="Bank" id="{b17c47bd-a125-427b-afcf-133c24da19d6}">
+		<property name="name">
+			<value>half-life-sound-pack</value>
+		</property>
+		<property name="isMasterBank">
+			<value>true</value>
+		</property>
+		<relationship name="folder">
+			<destination>{e91f7a1c-89b3-44a4-8fd2-2eb6ee052248}</destination>
+		</relationship>
+	</object>
+</objects>

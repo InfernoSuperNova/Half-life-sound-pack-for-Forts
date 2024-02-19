@@ -1,0 +1,1 @@
+SoundEvent = "mods/half-life-sound-pack/effects/really_big_explosion"

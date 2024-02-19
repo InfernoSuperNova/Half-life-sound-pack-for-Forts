@@ -1,0 +1,1 @@
+SoundEvent = "mods/AlexFunnyMods/effects/hit/ignit_effect"
